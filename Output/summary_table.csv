@@ -1,0 +1,5 @@
+,Model,Final Train Accuracy (%),Final Validation Accuracy (%),Final Test Accuracy (%)
+0,Base LeNet-5,94.37708333333332,89.91666666666667,89.18
+1,LeNet-5 with Dropout,92.1375,88.73333333333333,89.03
+2,LeNet-5 with Batch Normalization,96.81458333333332,89.75,89.85
+3,Base LeNet-5 with Weight Decay,92.70208333333332,89.68333333333334,89.49
